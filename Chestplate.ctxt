@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Chestplate
+comment1.params=name\ stats\ strength\ agility\ HealthPoints
+comment1.target=Chestplate(java.lang.String,\ java.util.ArrayList,\ int,\ int,\ int)
+numComments=2

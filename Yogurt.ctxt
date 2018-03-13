@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Yogurt
+comment1.params=name\ stats\ HealthPoints\ strength
+comment1.target=Yogurt(java.lang.String,\ java.util.ArrayList,\ int,\ int)
+numComments=2

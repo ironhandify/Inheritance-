@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DiamondChestPlate
+comment1.params=name\ stats\ strength\ agility\ HealthPoints
+comment1.target=DiamondChestPlate(java.lang.String,\ java.util.ArrayList,\ int,\ int,\ int)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PotionOfSpeed
+comment1.params=name\ stats\ agility
+comment1.target=PotionOfSpeed(java.lang.String,\ java.util.ArrayList,\ int)
+numComments=2

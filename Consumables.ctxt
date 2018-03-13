@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Consumables
+comment1.params=name\ stats
+comment1.target=Consumables(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getStrength()
+comment3.params=
+comment3.target=int\ getAgility()
+comment4.params=
+comment4.target=int\ HealthPoints()
+comment5.params=
+comment5.target=boolean\ Blocksystem()
+numComments=6
